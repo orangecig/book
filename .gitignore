@@ -1,9 +1,1 @@
-/node_modules
-/assets/uikit
-!/assets/google
-/css
-/fonts
-main.min.js
-js/*.min.js
-.DS_Store
-.idea
+
